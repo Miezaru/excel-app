@@ -1,4 +1,7 @@
 .idea
+dist
 node_modules
 requirements.txt
-
+package-lock.json
+.eslintrc
+.eslintignore
